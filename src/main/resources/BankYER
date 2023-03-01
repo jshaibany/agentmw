@@ -1,0 +1,48 @@
+{
+    "Message": "Total banks found [7]",
+    "Banks": [
+        {
+            "Brand": 632,
+            "Bank_Code": "CAC",
+            "Name_EN": "Cac Bank",
+            "Name_AR": "\u0643\u0627\u0643 \u0628\u0646\u0643"
+        },
+        {
+            "Brand": 628,
+            "Bank_Code": "IBY",
+            "Name_EN": "IBY Bank",
+            "Name_AR": "\u0628\u0646\u0643 \u0627\u0644\u064A\u0645\u0646 \u0627\u0644\u062F\u0648\u0644\u064A"
+        },
+        {
+            "Brand": 629,
+            "Bank_Code": "SBYB",
+            "Name_EN": "Yemen & Bahrain Bank",
+            "Name_AR": "\u0628\u0646\u0643 \u0627\u0644\u064A\u0645\u0646 \u0648 \u0627\u0644\u0628\u062D\u0631\u064A\u0646 \u0627\u0644\u0634\u0627\u0645\u0644"
+        },
+        {
+            "Brand": 630,
+            "Bank_Code": "SIB",
+            "Name_EN": "SIB Bank",
+            "Name_AR": "\u0628\u0646\u0643 \u0633\u0628\u0623"
+        },
+        {
+            "Brand": 631,
+            "Bank_Code": "TIIB",
+            "Name_EN": "Tadhamon Bank",
+            "Name_AR": "\u0628\u0646\u0643 \u0627\u0644\u062A\u0636\u0627\u0645\u0646"
+        },
+        {
+            "Brand": 627,
+            "Bank_Code": "YBRD",
+            "Name_EN": "YBRD Bank",
+            "Name_AR": "\u0628\u0646\u0643 \u0627\u0644\u0625\u0646\u0634\u0627\u0621 \u0648 \u0627\u0644\u062A\u0639\u0645\u064A\u0631"
+        },
+        {
+            "Brand": 633,
+            "Bank_Code": "YKB",
+            "Name_EN": "YKB Bank",
+            "Name_AR": "\u0628\u0646\u0643 \u0627\u0644\u064A\u0645\u0646 \u0648 \u0627\u0644\u0643\u0648\u064A\u062A"
+        }
+    ],
+    "Result": 0
+}

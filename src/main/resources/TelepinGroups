@@ -1,0 +1,196 @@
+{
+    "Message": "Total groups found [x]",
+    "Groups": [
+        {
+            "Group_Id": 3,
+            "Group_Name": "TradingCompanyGroup",
+            "Layer_Name": "TradingCompany"
+        },
+        {
+            "Group_Id": 4,
+            "Group_Name": "DirectResellerBranchGroup",
+            "Layer_Name": "BranchandWholesaler"
+        },
+        {
+            "Group_Id": 5,
+            "Group_Name": "IndirectAgentGroup",
+            "Layer_Name": "Agent"
+        },
+        {
+            "Group_Id": 6,
+            "Group_Name": "SubscriberGroup",
+            "Layer_Name": "Subscribers"
+        },
+        {
+            "Group_Id": 46,
+            "Group_Name": "ONE Internal Subscriber",
+            "Layer_Name": "Subscribers"
+        },
+        {
+            "Group_Id": 8,
+            "Group_Name": "MerchantGroup",
+            "Layer_Name": "Merchant"
+        },
+        {
+            "Group_Id": 9,
+            "Group_Name": "TradingCompanyBranch",
+            "Layer_Name": "Reseller"
+        },
+        {
+            "Group_Id": 10,
+            "Group_Name": "ResellerGroup",
+            "Layer_Name": "Reseller"
+        },
+        {
+            "Group_Id": 11,
+            "Group_Name": "WholesalerGroup",
+            "Layer_Name": "BranchandWholesaler"
+        },
+        {
+            "Group_Id": 12,
+            "Group_Name": "AgentHeadOfficeGroup",
+            "Layer_Name": "HeadOffice"
+        },
+        {
+            "Group_Id": 13,
+            "Group_Name": "MerchantHeadOfficegroup",
+            "Layer_Name": "HeadOffice"
+        },
+        {
+            "Group_Id": 14,
+            "Group_Name": "AgentGroup",
+            "Layer_Name": "Agent"
+        },
+        {
+            "Group_Id": 15,
+            "Group_Name": "MerchantBranch",
+            "Layer_Name": "Merchant"
+        },
+        {
+            "Group_Id": 17,
+            "Group_Name": "PrefundedWallets",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 18,
+            "Group_Name": "BillerGroup",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 19,
+            "Group_Name": "BusinessBranch",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 21,
+            "Group_Name": "BusinessCollectionGroup",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 22,
+            "Group_Name": "BusinessExchangeGroup",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 23,
+            "Group_Name": "NGOsGroup",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 24,
+            "Group_Name": "Agent",
+            "Layer_Name": "Agent"
+        },
+        {
+            "Group_Id": 26,
+            "Group_Name": "WholesalerBranchGroup",
+            "Layer_Name": "BranchandWholesaler"
+        },
+        {
+            "Group_Id": 27,
+            "Group_Name": "ResellerBranchGroup",
+            "Layer_Name": "BranchandWholesaler"
+        },
+        {
+            "Group_Id": 28,
+            "Group_Name": "TradingCompanyBranchGroup",
+            "Layer_Name": "BranchandWholesaler"
+        },
+        {
+            "Group_Id": 30,
+            "Group_Name": "TradeAmbassadorsGroup",
+            "Layer_Name": "Agent"
+        },
+        {
+            "Group_Id": 42,
+            "Group_Name": "ExchangerHeadOfficeGroup",
+            "Layer_Name": "HeadOffice"
+        },
+        {
+            "Group_Id": 43,
+            "Group_Name": "BusinessHOGroup",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 44,
+            "Group_Name": "ONE Internal Agent",
+            "Layer_Name": "Agent"
+        },
+        {
+            "Group_Id": 45,
+            "Group_Name": "ONE Internal Merchant",
+            "Layer_Name": "Merchant"
+        },
+        {
+            "Group_Id": 47,
+            "Group_Name": "HSATradingCompany",
+            "Layer_Name": "NWCTradingCompany"
+        },
+        {
+            "Group_Id": 48,
+            "Group_Name": "HSABusinessHO",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 49,
+            "Group_Name": "HSADistributorBusinessHO",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 50,
+            "Group_Name": "HSABusinessBranch",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 51,
+            "Group_Name": "HSADistributorBusinessBranch",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 52,
+            "Group_Name": "HSATradingCompanyBranch",
+            "Layer_Name": "Reseller"
+        },
+        {
+            "Group_Id": 53,
+            "Group_Name": "Stander Reseller group",
+            "Layer_Name": "Reseller"
+        },
+        {
+            "Group_Id": 54,
+            "Group_Name": "HSA Industrial HO",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 55,
+            "Group_Name": "HSA Industrial Branch",
+            "Layer_Name": "Business"
+        },
+        {
+            "Group_Id": 57,
+            "Group_Name": "E merchant Group",
+            "Layer_Name": "Business"
+        }
+    ],
+    "Result": 0
+}
